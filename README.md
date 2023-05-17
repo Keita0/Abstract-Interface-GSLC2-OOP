@@ -1,1 +1,0 @@
-# Abstracti-Interface-GSLC2-OOP
